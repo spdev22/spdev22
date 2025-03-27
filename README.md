@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
 <h3 align="center">A passionate enthusiast of technology, computer science, and science fiction.</h3>
 
-- 🌱 I’m currently learning **Typescript, express js, angular.**
+- 🌱 I’m currently learning **Typescript, Express, Angular.**
 
 - 💬 Ask me about **C#, javascript, ASP.Net.**
 
